@@ -24,7 +24,7 @@ The algorithm relies on the statistical probability that price will revert to it
 ## 📦 Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/crypto-scalp.git](https://github.com/YOUR_USERNAME/crypto-scalp.git)
+    git clone [https://github.com/hamitbuyukguzel-bit/crypto-scalp.git](https://github.com/hamitbuyukguzel-bit/crypto-scalp.git)
     ```
 2.  Install dependencies:
     ```bash
@@ -39,4 +39,4 @@ The algorithm relies on the statistical probability that price will revert to it
 This software is for **educational and research purposes only**. It does not constitute financial advice. Cryptocurrency trading involves significant risk. The author is not responsible for any financial losses.
 
 ---
-*Author: [Your Name]*
+*Author: [Hamit Buyukguzel]*
